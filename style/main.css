@@ -1,0 +1,18 @@
+
+body {
+  margin: 0;
+}
+
+body * {
+  box-sizing: border-box;
+}
+
+.origami-bottoming {
+  height: 200px;
+  overflow: auto;
+  border: 1px solid #ccc;
+  font-family: Futura, Helvetica, Sans-Serif;
+  font-size: 16px;
+  line-height: 2em;
+}
+
